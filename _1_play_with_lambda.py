@@ -7,13 +7,8 @@
 # sample output: 35
 
 
+result = lambda a : a + 10
 
-from tkinter import Y
+print(result(25))
 
 
-# result = lambda a : a + 10
-
-# print(result(25))
-
-r = lambda x,y : x*y
-print(r(7,5))
